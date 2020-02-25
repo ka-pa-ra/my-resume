@@ -25,6 +25,9 @@
 .bg-color-work-history {
     background-color: #9b59b6;
 }
+.bg-color-contact-form{
+    background-color:#fff;
+}
 /*------------------------------------------special/paddings/margin/text*/
 h1,h2,h3,h4 {
     margin: 0;
@@ -272,4 +275,8 @@ transition: all 0.35s ease-in-out;
 }
 .history-item{
     margin-bottom:30px; 
+}
+/*------------------------------------------contact form*/
+.contact-heading{
+    margin:
 }
